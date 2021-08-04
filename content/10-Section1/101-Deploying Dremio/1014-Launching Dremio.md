@@ -10,18 +10,17 @@ weight = 1014
    <br/><br/>
        
      
-  After clicking on the IP Address under Outputs you will be brought to Dremio’s AWS Edition.  <Insert something about AWSE>  Dremio will automatically look for any projects that are already available before having you set up your own project. 
+  After clicking on the IP Address under Outputs you will be brought to Dremio’s AWS Edition.  Dremio will automatically look for any projects that are already available before having you set up your own project. 
        <img src="../../images/dremio11.png" style="margin:15px 0px; border:1px solid black"/>
        <img src="../../images/dremio12.png" style="margin:15px 0px; border:1px solid black"/>
              <ol>
-           <li> Authenticating your AWS Instance </li>
-           </br>
+           <li> Authenticating your AWS Instance: </li>
+  
            <b>(This is only applicable if you have existing project, else skip to "Creating a  Project")</b>   </br>
            One the Authentication Screen (pictured above) Dremio will need to verify the EC2 instance ID that you are using.  Dremio will automatically add your Instance ID.  Once your Instance ID has populated, press Authenticate.
 
    <br/>
-  <li> Creating a Project</li>
-  <br/>
+  <li> Creating a Project:</li>
    Dremio allows users to create Projects which are separate instances of Dremio that do not share any data or resources.  Projects can be managed independently of each other.  Dremio allows for multiple Projects to be created within a single AWS account.  
            
   Under the “Create a Project” screen, click “Create Project”
@@ -47,7 +46,6 @@ Once complete, click Create
 
 
 <li> Creating Project Environment </li>
-<br/>
 
 Dremio will automatically create your Project Environment by deploying the EC2 Instances, connecting the Instances to a S3 bucket and allocating the EBS & EFS storage.  This step should take no more than 5 minutes to complete.  You will see green check marks appear as each step is completed.
 
@@ -61,7 +59,7 @@ Dremio will automatically create your Project Environment by deploying the EC2 I
 Once the setup is complete, you will need to accept Dremio’s License and Services Agreement by clicking <b>“I Accept”</b>
 <img src="../../images/dremio16.png" style="margin:15px 0px; border:1px solid black"/>
 <br/>
-Next you will need to create your Admin Account in Dremio by filing out the Admin Account Information. (Insert Admin Account Benefits & How we track data)
+Next you will need to create your Admin Account in Dremio by filing out the Admin Account Information. 
        <img src="../../images/dremio17.png" style="margin:15px 0px; border:1px solid black"/>
        <br/>
        Once you have filled out all the information, click Next to be taken do the Dremio User-Interface. 

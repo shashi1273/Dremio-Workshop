@@ -6,15 +6,7 @@ weight = 802
 
 <div style="text-align: left">
     <ol>
-<li>
-Click on your NYC_Taxi Virtual Dataset and select the <b>“Graph”</b> tab at the top of the preview window.  
-</li>
 
-                            <img src="../../images/dremio64.png" style="margin:15px 0px; border:1px solid black"/>
-
-Dremio provides the ability to track the lineage of virtual datasets by showing which source the dataset came from, which Physical Dataset was the parent to the virtual dataset and if there are any children virtual dataset.  Because we created a VDS that had a kilometer calculated field we can see that we have one child dataset in the graph. 
-
-                            <img src="../../images/dremio65.png" style="margin:15px 0px; border:1px solid black"/>
 <li>Navigate back to the data tab and click <b>“join”</b> located under the SQL Editor.   
 </li>
 <br/>

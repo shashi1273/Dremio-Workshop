@@ -7,7 +7,7 @@ weight = 504
 <div style="text-align: left">
 </div>
     <ol>
-       <li> From the Dremio home screen hover over the NYC_Taxi Dataset and click on the edit button.  This will allow you to edit an already existing VDS.
+       <li> From the Dremio home screen hover over the <b>NYC_Taxi</b> Dataset and click on the edit button.  This will allow you to edit an already existing VDS.
 
 </li>
 <li> Notice the fields pickup_datetime & dropoff_datetime include both the date and time as one value. For the purposes of this lab, we just need to keep the date.  

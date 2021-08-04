@@ -7,7 +7,7 @@ weight = 801
 <div style="text-align: left">
 
 <ol>
- <li> In Dremio, navigate to the Dremio Home Screen and click on your S3 bucket in the bottom left corner of the screen.  Click on the <b> “modernizationworkshop” </b>folder and notice that you have a folder that says <b>nyc weather</b>.  
+ <li> In Dremio, navigate to the Dremio Home Screen and click on your S3 bucket in the bottom left corner of the screen.  Click on the same named folder on middle of screen, then click on "dremioworkshopdata" and notice that you have a folder that says <b>nyc weather</b>.  
 </li>
                             <img src="../../images/dremio61.png" style="margin:15px 0px; border:1px solid black"/>
 
@@ -20,7 +20,7 @@ weight = 801
          </li>
           </ol>
          <br/>
-       Click the icon and save the dataset as nyc_weather  to your Dremio Home Space.  Navigate back to your Dremio Home Screen and under your Home Space you should see three different Virtual Datasets. 
+       Click the  save icon to save  the dataset as <b>nyc_weather</b>  to your Dremio Home Space.  Navigate back to your Dremio Home Screen and under your Home Space you should see three different Virtual Datasets. 
    
                           <img src="../../images/dremio63.png" style="margin:15px 0px; border:1px solid black"/>
 </div>

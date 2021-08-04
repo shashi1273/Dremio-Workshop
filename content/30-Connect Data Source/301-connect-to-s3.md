@@ -12,21 +12,18 @@ chapter = true
           <li> From the “Add Data Lake” box, click Amazon S3</li>
           <li>From the  “New Amazon S3 Source” Add the following information to the General tab:</li>
 <ul>
-           <li> <b> Name</b>: AWS S3 Modernization Workshop</li> 
-            <li>  <b> AWS Access Key</b>: Shashi to provide </li> 
-            <li>  <b> AWS Secret Key</b>: Shashi to provide </li> 
+           <li> <b> Name</b>: [Name of bucket created as part of workshop]</li> 
+            <li>  <b> AWS Access Key</b>:Go to IAM console and look for <b>dremio-user</b>,create access key under security credentials tab and use it</li> 
+            <li>  <b> AWS Secret Key</b>: Go to IAM console and look for <b>dremio-user</b>,create secret key under security credentials tab and use it </li> 
               </ul>
 
 
 Click <b>Save</b>.
 <br/>
- Dremio is now connected to an AWS S3 bucket that contains NYC Taxi and Weather Data
-<li> To verify that Dremio is properly connected to AWS S3, under Data Lakes in the bottom left corner, click on icon that shows <li>AWS S3 Modernization Workshop
-</li> 
-You should see a folder titled “modernizationworkshop” in the center of the screen.
+ Dremio is now connected to an AWS S3 bucket that contains NYC Taxi and Weather Data. The name of this bucket will be " dremio-data-lake-AccountID"
+<li> To verify that Dremio is properly connected to AWS S3, under Data Lakes in the bottom left corner, you should see dremio datalake buckest listed </li>
 </ol>
-<br/>
-<br/>
+
               
 
 

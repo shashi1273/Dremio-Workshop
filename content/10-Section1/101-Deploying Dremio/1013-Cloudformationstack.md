@@ -17,28 +17,17 @@ weight = 1013
            <li> Specify Stack Details </li>
             <br/>
            
-           Provide a Stack Name.  An example would be <b>Dremio-Modernization-Workshop</b>
+  Provide a Stack Name.  An example would be <b>Dremio-Modernization-Workshop</b>
            
-            <br/>
-            
-           Under the “Parameters” section enter the following information
-           <ul>
-           <li>Key Pair - <use your own Key Pair></li>
-          <li> VPC - <select your appropriate VPC></li>
-           <li>Subnet - <select your appropriate Subnet></li>
-           <li>Allowed IP Range - 0.0.0.0/0</li>
-           </ul>
-           <br/>
-           Leave all other fields blank or with their default selection.  Once completed, press next at the bottom of the screen.         
+Make your selections as per the image below.         
+   
    <img src="../../images/dremio7.png" style="margin:15px 0px; border:1px solid black"/>
-           <li>Configure Stack Options</li>
-            <br/>
-           For this page, you do not need to add anything additional, continue by pressing next at the bottom of the screen
+  <li>Configure Stack Options</li>
+     For this page, you do not need to add anything additional, continue by pressing next at the bottom of the screen
  <br/>
 <li> Review Stack  </li>
- <br/>
 Review the inputs and make sure they match the steps above.
- <br/>
+
 
 At the bottom of the screen under “Capabilities” click that the check box that acknowledges that CloudFormation might create IAM resources.
  <br/>
