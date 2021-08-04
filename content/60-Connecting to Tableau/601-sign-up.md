@@ -21,7 +21,8 @@ weight = 601
        <img src="../../images/dremio42.png" style="margin:15px 0px; border:1px solid black"/>
     <li>Follow the on-screen instructions to verify your email with Tableau.  </li>
     
-  <li>After activating your Tableau Online instance from your email account, Tableau will direct you to your Tableau Online instance to create a username & password.  For site selection, choose <b>US-West Oregon</b>.  Once you click activate, Tableau will automatically direct you to your Tableau Online instance. 
+  <li>After activating your Tableau Online instance from your email account, Tableau will direct you to your Tableau Online instance to create a username & password.  For site selection, choose <b>US-West Oregon</b> (Point is to select same region as selected for Dremio deployment in AWS).  Once you click activate, Tableau will automatically direct you to your Tableau Online instance. 
+You will also be asked to "Name Your Site", you can name it anything.
 </li>
 
 <br/>
