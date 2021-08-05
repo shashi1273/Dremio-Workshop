@@ -1,5 +1,5 @@
 +++
-title = "Deploying Dremio"
+title = "Deploying Dremio Workshop Infrastructure"
 chapter = true
 weight = 100
 autoNav = true
