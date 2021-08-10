@@ -9,7 +9,7 @@ autoNav = true
 
 <div style="text-align: justify">
 
-    In this section, you will learn how to quickly deploy a Dremio environment on the AWS Marketplace using a CloudFormation Template. You will also run another Cloudformation template to set up infrascture needed to do the workshop.  
+    In this section, you will learn how to quickly deploy a Dremio environment on the AWS Marketplace using a CloudFormation Template. You will also run another Cloudformation template to set up infrastructure needed to do the workshop.  
     
 
     
@@ -18,7 +18,7 @@ autoNav = true
 <ol>
    <li> Log into AWS account with your credentials. </li>
     
-   <li> Launch the stack. <a href="https://console.aws.amazon.com/cloudformation/home?region=us-west-2#/stacks/new?stackName=dremio-workshop&templateURL=https://s3.amazonaws.com/lk-formation-sk.s3.amazonaws.com/create-dremioworkshop-infrastructure.yml" target="_blank"><img src="/images/LaunchStack.png" title="dbt workshop" width="140" height="60" style="margin:10px 0px"/></a>
+   <li> Launch the stack. <a href="https://console.aws.amazon.com/cloudformation/home?region=us-west-2#/stacks/new?stackName=dremio-workshop&templateURL=https://s3.amazonaws.com/lk-formation-sk.s3.amazonaws.com/create-dremioworkshop-infrastructure.yml" target="_blank"><img src="/images/LaunchStack.png" title="dbt workshop" width="70" height="30" style="margin:10px 0px"/></a>
     </li>
    <li>  Click `Next` till the end and then select acknowledgement checkbox. Then click "Create Stack"
     </li>
