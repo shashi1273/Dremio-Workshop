@@ -6,7 +6,6 @@ weight = 505
 
 <div style="text-align: left">
  <ol>
-       <li> Click on the <b>“Reflection”</b> Tab.  
        <br/>
 
 </li>
@@ -28,6 +27,15 @@ Aggregation reflections – An aggregation reflection includes one or more dimen
 </li>
 </ul>
 Dremio will automatically determine the Aggregation Reflection based on the measures and dimensions in the table.  
+ 
+ <li> Return to the Dremio Home Screen. 
+       <br/>
+ 
+</li>
+
+<li> In middle section, select <b>NYC_Taxi dataset</b>. Select the "gear wheel" and you will see "Reflections" tab. When you click on the <b>“Reflection”</b> Tab, Dremio will automatically determine the Aggregation Reflection based on the measures and dimensions in the table.
+       <br/>
+ 
 <ol start=2>
         <li>Toggle on the <b>“Aggregation Reflection”</b> and click Save.  Dremio will create the reflection.   
 </li>
