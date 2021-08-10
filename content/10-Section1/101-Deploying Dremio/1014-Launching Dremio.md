@@ -23,14 +23,13 @@ weight = 1014
   <li> Creating a Project:</li>
    Dremio allows users to create Projects which are separate instances of Dremio that do not share any data or resources.  Projects can be managed independently of each other.  Dremio allows for multiple Projects to be created within a single AWS account.  
            
-  Under the “Create a Project” screen, click “Create Project”
+    Under the “Create a Project” screen, click <b>“Create Project”</b>
      
    <img src="../../images/dremio13.png" style="margin:15px 0px; border:1px solid black"/>
    
    <li>Setting up your project</li>
            </br>
-           For this page, you do not need to add anything additional, continue by pressing next at the bottom of the screen
-Fill in the necessary information to create a Dremio Project:
+           For this page, fill in the necessary information to create a Dremio Project:
 <br/>
 <ul>
 <li>Under Project Name input: Dremio Modernization Workshop</li>
@@ -42,7 +41,7 @@ Fill in the necessary information to create a Dremio Project:
 Your inputs should look like the image below:
 <img src="../../images/dremio14.png" style="margin:15px 0px; border:1px solid black"/>
 
-Once complete, click Create
+Once complete, click <b>Create</b>
 
 
 <li> Creating Project Environment </li>
