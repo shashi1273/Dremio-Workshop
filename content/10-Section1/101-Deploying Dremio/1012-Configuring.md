@@ -13,7 +13,7 @@ weight = 1012
     <ol>
         <li>From the Dremio AWS Marketplace Listing, click the yellow <b>"Continue to Subscribe"</b> button on the right.</li>
          <img src="../../images/dremio3.png" style="margin:15px 0px; border:1px solid black"/>
-        <li> Accept the terms and conditions by clicking on the yellow button. This will take few minutes and at the end will enable the <b>"Continue to Configuration"</b> button on top right hand corner. Click on the yellow  <b>Continue to Configuration button in the top right</b>. </li>
+        <li> Accept the terms and conditions by clicking on the yellow button. This will take few minutes and at the end will enable the <b>"Continue to Configuration"</b> button on top right hand corner. Click on the yellow  <b>Continue to Configuration </b> button in the top right. </li>
        <img src="../../images/dremio3yellow.png" style="margin:15px 0px; border:1px solid black"/>
         <li> Configuring the Cloud Formation Template. </li>
         <br/>
