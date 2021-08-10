@@ -9,7 +9,7 @@ weight = 203
   
 
     <ol>
-        <li>   From the Dremio home screen click the  PLUS  next to <b>“Spaces” </b>.  
+        <li>   From the Dremio home screen click the  <b>"+"</b> icon  next to <b>“Spaces” </b>.  
  </li>
          <li>  Provide a name for your Space and click Save</li>
         
