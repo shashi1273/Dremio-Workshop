@@ -7,7 +7,7 @@ weight = 501
 <div style="text-align: left">
     
 <ol>
-       <li> From your Dremio Home Screen, click on your AWS S3 Storage Connection labeled <b>“dremio-data-lake-AccountID”</b>  on the bottom left corner of your screen.  In the top center portion of your screen you will see a folder with same name. Click on that folder then click <b>"dremioworkshopdata"</b>  folder and then click on the <b>“Trips”</b> Folder.  You should now see Parquet files.  
+       <li> From your Dremio Home Screen, click on your AWS S3 Storage Connection labeled <b>“AWS S3 Modernization Workshop”</b>  on the bottom left corner of your screen.  In the top center portion of your screen you will see a folder with the name <b>“dremio-data-lake-AccountID”</b>. Click on that folder then click <b>"dremioworkshopdata"</b>  folder and then click on the <b>“Trips”</b> Folder.  You should now see Parquet files.  
        
 </li>
         <img src="../../images/dremio30.png" style="margin:15px 0px; border:1px solid black"/>
@@ -40,7 +40,7 @@ A pop-up window will appear.  Dremio recognizes specific formats and will struct
 Next, we are going to save this VDS in our Dremio Home Space. Click the  save icon and save the VDS as <b>NYC_Taxi</b> to your Home Space. 
  <br/>
 
-**Note your Home Space name will be your username.  
+**Note your Home Space name will be your Dremio username preceeded with an @.  
   
 
        
