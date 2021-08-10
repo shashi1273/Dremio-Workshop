@@ -39,10 +39,10 @@ Once finished, press next at the bottom of the screen. Select the acknowledgment
 
 <img src="../../images/dremio8.png" style="margin:15px 0px; border:1px solid black"/>
 
-It should take approximately 2 minutes to create the stack.  Once the stack is completed, the status will change to <b>CREATE_COMPLETE</b>.  Once the stack has been created, navigate to the <b>“Outputs”<b> tab under the name of your CloudFormation Stack
+It should take approximately 2 minutes to create the stack.  Once the stack is completed, the status will change to <b>CREATE_COMPLETE</b>.  Once the stack has been created, navigate to the <b>“Outputs”</b> tab under the name of your CloudFormation Stack
       <img src="../../images/dremio9.png" style="margin:15px 0px; border:1px solid black"/>
       
-From the <b>“Outputs” </b> tab, you should see the DremioPublicEndpoint which will be an IP Address.  Click the IP Address to launch Dremio
+From the <b>“Outputs”</b> tab, you should see the DremioPublicEndpoint which will be an IP Address.  Click the IP Address to launch Dremio
       <img src="../../images/dremio10.png" style="margin:15px 0px; border:1px solid black"/>
        </ol>
 
