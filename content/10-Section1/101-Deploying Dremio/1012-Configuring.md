@@ -11,9 +11,9 @@ weight = 1012
     <br/><br/>
     
     <ol>
-        <li>From the Dremio AWS Marketplace Listing, click the yellow Continue to Subscribe button on the right.</li>
+        <li>From the Dremio AWS Marketplace Listing, click the yellow <b>"Continue to Subscribe"</b> button on the right.</li>
          <img src="../../images/dremio3.png" style="margin:15px 0px; border:1px solid black"/>
-        <li> Accept the terms and conditions by clicking on the yellow button. This will take few minutes and at the end will enable the <b>"Continue to Configuration"</b> button on top right hand corner. Click on the yellow  Continue to Configuration button in the top right. </li>
+        <li> Accept the terms and conditions by clicking on the yellow button. This will take few minutes and at the end will enable the <b>"Continue to Configuration"</b> button on top right hand corner. Click on the yellow  <b>Continue to Configuration button in the top right</b>. </li>
        <img src="../../images/dremio3yellow.png" style="margin:15px 0px; border:1px solid black"/>
         <li> Configuring the Cloud Formation Template. </li>
         <br/>
@@ -26,7 +26,7 @@ weight = 1012
         
         </ul>
         <br/>
-        Once complete, click the yellow <b>Continue to Launch button</b>
+        Once complete, click the yellow <b>"Continue to Launch button"</b>
 
          <img src="../../images/dremio4.png" style="margin:15px 0px; border:1px solid black"/>
 
@@ -34,7 +34,7 @@ weight = 1012
          <br/>
         Here you will review your configuration details and then choose how you will launch Dremio.  
          <br/>
-        Under the “Choose Action” drop-down, select Launch CloudFormation and click the yellow Launch button. 
+        Under the <b>“Choose Action”</b> drop-down, select Launch CloudFormation and click the yellow <b>"Launch"</b> button. 
 
 <img src="../../images/dremio5.png" style="margin:15px 0px; border:1px solid black"/>
 
