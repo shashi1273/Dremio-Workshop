@@ -32,9 +32,10 @@ Dremio will automatically determine the Aggregation Reflection based on the meas
        <br/>
  
 </li>
-
+<ol>
 <li> In middle section, select <b>NYC_Taxi dataset</b>. Select the "gear wheel" and you will see "Reflections" tab. When you click on the <b>“Reflection”</b> Tab, Dremio will automatically determine the Aggregation Reflection based on the measures and dimensions in the table.
-       <br/>
+ </ol>      
+ <br/>
  
 <ol start=2>
         <li>Toggle on the <b>“Aggregation Reflection”</b> and click Save.  Dremio will create the reflection.   
