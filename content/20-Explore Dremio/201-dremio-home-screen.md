@@ -22,7 +22,7 @@ The Dremio Home screen has 4 major areas:
         Dremio can connect to a variety of Data Lake storage and External Sources.  This area is where you create and manage your different data connections
         
         <li><b>Home Space Wiki</b></li>
-        You can create and edit this information for any source, space, or folder.  This sidebar always shows the wiki for the current source, space or folder you are browsing.
+        You can create and edit information for any source, space, or folder.  This sidebar always shows the wiki for the current source, space or folder you are browsing.
 
     </ol>
     <br/>
