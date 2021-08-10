@@ -9,10 +9,10 @@ chapter = true
 <div style="text-align: justify">
   <ol>
           <li>From the Dremio Home Screen Click the <b>+</b> icon next to <b>“Data Lakes”</b></li>
-          <li> From the “Add Data Lake” box, click Amazon S3</li>
+    <li> From the <b>“Add Data Lake”</b> box, click Amazon S3</li>
           <li>From the  “New Amazon S3 Source” Add the following information to the General tab:</li>
 <ul>
-           <li> <b> Name</b>: [Name of bucket created as part of workshop]</li> 
+           <li> <b> Name</b>: [AWS S3 Modernization Workshop]</li> 
             <li>  <b> AWS Access Key</b>:Go to IAM console and look for <b>dremio-user</b>,create access key under security credentials tab and use it</li> 
             <li>  <b> AWS Secret Key</b>: Go to IAM console and look for <b>dremio-user</b>,create secret key under security credentials tab and use it </li> 
               </ul>
