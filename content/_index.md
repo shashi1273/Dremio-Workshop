@@ -11,7 +11,7 @@ weight: 1
 In this workshop you will learn how to use Dremio and integrate it with S3 and Tableau.
 
 ### Learning Objectives
- The intent of this workshop is to educate users on the features of Dremio and how to accelerate Time-to-Insight using Dremio on AWS. Background in AWS Glue and other AWS Analytics services are not required, but they may come in handy.
+ The intent of this workshop is to educate users on the features of Dremio and how to accelerate Time-to-Insight using Dremio on AWS. A Background in AWS Glue and other AWS Analytics services is not required, but they may come in handy.
     <br/><br/>Workshop Goals:
             <br/><br/>   
            <li> Section 1: Deploying Dremio 

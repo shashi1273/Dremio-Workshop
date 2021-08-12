@@ -1,5 +1,5 @@
 +++
-title = "Configuring and Launching the Dremio"
+title = "Configuring and Launching  Dremio"
 chapter = true
 weight = 1012
 +++
