@@ -6,7 +6,7 @@ weight = 201
 
 
 <div style="text-align: justify">
-    <center><h2>Explore Dremio Home Screen (5 Minutes)</h2></center>
+    <center><h2>Explore Dremio Home Screen</h2></center>
 
   
 
