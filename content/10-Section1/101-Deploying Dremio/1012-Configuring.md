@@ -22,7 +22,7 @@ weight = 1012
          <ul>
         <li>Delivery Method: Dremio Deployment</li>
         <li>Software Version: Select latest</li>
-        <li>Region: US West (Oregon)</li>
+        <li>Region: <b>US West (Oregon)</b></li>
         
         </ul>
         <br/>
