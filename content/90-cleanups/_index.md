@@ -13,7 +13,7 @@ chapter = true
     <li>Delete the EC2 key pair "dremioworkshop" that you created 
         </li>
     <li>Empty data lake bucket(dremio-data-lake-XXXXXX) created for the workshop</li>
-    <li>Select "dremio-workshop" cloudformation stack and delete
+    <li>Select "dremio-workshop" cloudformation stack and delete the stack. This should remove all the objects created by it.
   </li>
      
     
