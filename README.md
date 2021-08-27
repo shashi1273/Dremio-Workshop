@@ -1,7 +1,7 @@
 
 
-# AWSWorkshop.io base workshop 
+# Dremio Modernization Workshop
 
-This is a base workshop.  Clone and start from this repo to create your workshop.
+
 
 
