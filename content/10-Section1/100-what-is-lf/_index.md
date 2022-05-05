@@ -26,6 +26,7 @@ autoNav = true
    1. <a href="https://us-east-1.console.aws.amazon.com/console/home?region=us-east-1" target="_blank" />Login </a> to your AWS account.
    1. Launch the stack. <a href="https://console.aws.amazon.com/cloudformation/home?region=us-east-1#/stacks/new?stackName=dremio-workshop&templateURL=https://s3.amazonaws.com/lk-formation-sk.s3.amazonaws.com/create-dremioworkshop-infrastructure.yml" target="_blank"  />Click Here</a>
 
+Click `Next` till the end and then select acknowledgement checkbox. Then click "Create Stack"
   
    
 
