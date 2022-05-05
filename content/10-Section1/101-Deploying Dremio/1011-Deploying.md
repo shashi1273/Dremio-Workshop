@@ -14,7 +14,7 @@ In this section, you will learn how to quickly deploy a Dremio Cloud environment
 
   
     <ol>
-      <li> Navigate to the <a href="http://app.dremio.cloud">Dremio Cloud</a> </li>
+      <li> Navigate to the <a href="http://app.dremio.cloud" target ="_blank" >Dremio Cloud</a> </li>
 
     
       <li> Complete the “Sign Up via Email” form to register for your free Dremio Cloud account. You’ll need to check your inbox to activate your account. Click on the “Verify your account” link within the email and you’ll be directed to the “Create your first project” page.
