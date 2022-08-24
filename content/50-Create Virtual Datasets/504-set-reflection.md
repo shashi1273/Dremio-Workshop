@@ -6,9 +6,6 @@ weight = 504
 
 <div style="text-align: left">
  <ol>
-  
-  Navigate back to your VDS titled NYC_Taxi
-  
       <li>Click on the “Reflection” Tab.  </li>
 
     Reflections are physically optimized representations of source data that Dremio maintains in order to accelerate query performance.  Dremio can accelerate a query by utilizing one or more Data Reflections to partially or entirely satisfy that query, rather than processing the raw data in the underlying data source.  There are various types of Data Reflections:
