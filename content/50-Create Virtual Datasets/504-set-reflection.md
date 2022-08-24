@@ -4,6 +4,8 @@ chapter = true
 weight = 504
 +++
 
+  Navigate back to your VDS titled NYC_Taxi
+
 <div style="text-align: left">
  <ol>
       <li>Click on the “Reflection” Tab.  </li>
